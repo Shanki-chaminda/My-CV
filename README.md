@@ -30,7 +30,7 @@ Holy Family Convent, Kurunegala, Sri Lanka
 - Economics: C
 - Accounting: S
 
-  🔗 [www.holyfamilykuru.com](http://www.holyfamilykuru.com)
+🔗 [www.holyfamilykuru.com](http://www.holyfamilykuru.com)
 
 ---
 
@@ -95,6 +95,4 @@ Siyapatha Finance, Kurunegala, Sri Lanka **(2020 – Present)**\
 
 ---
 
-##
-
----           
+         
