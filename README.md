@@ -28,7 +28,7 @@ Holy Family Convent, Kurunegala, Sri Lanka
 
 - Business Studies: B
 - Economics: C
-- Accounting: S
+- Accounting: c
 
 🔗 [www.holyfamilykuru.com](http://www.holyfamilykuru.com)
 
